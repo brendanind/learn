@@ -1,0 +1,22 @@
+(1) Install Python38, Zoom, GitHub Desktop.
+(2) Make accounts and share details of GitHub and Zoom.
+(3) Introduce to git system, and share the learn repo.
+(4) Hello World, Variables, how to use IDLE, pushing, pulling, basic logic, -+*/
+(5) The three main structures of computer programming:
+  a - SEQUENCES (Python sequentially runs steps in order that we ask it to)
+  b - SELECTION (if, else, etc..)
+  c - ITERATION (while, FOR i IN range(n))
+(6) Breaking down problems into computable steps, DECOMPOSITION, ABSTRACTION, etc..
+  For example, Brits like tea, so we make decompose the task of making a cup of tea into: GET cup, FILL kettle, while kettle boiling, put teabag in and retieve milk.
+  This task includes all the three key programming concepts, we have SEQUENTIAL instruction: it would be bad if we put milk into cup before we had a cup. We have SELECTION,
+  by saying "milk" OR "sugar" OR ("milk" AND "sugar"). We have ITERATION because we do while TEA =! boiled: DO x. Or, while teacup =! full, keep pouring.
+(7) Datatypes: bools, strings, number, characters, etc..
+(8) Data Structures: lists, tuples, dictionaries, etc.. (objects?)
+(9) OOP - The idea of making functions, then dividing each element of a program into functions, then running them at the end, the benifits of this, etc..
+(10) Them we make objects, classes, inheritance, instantiation, ohhhhh boyyy, we're in for a ride..
+
+NOTE TO SELF: Rename this file "A crash coruse to learning python"
+USE SCRATCH TO PRACTICE WITH FLOWCHARTS.
+Then a ton of practice of various tasks.
+
+(11) Depending on what her course is, we could to searching and sorting algorithms and share the good book by C&D about algorithms for ALEVEL.
