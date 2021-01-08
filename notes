@@ -1,0 +1,24 @@
+Firstly we get these installed:
+
+1) Discord
+2)Python 3.8
+3) pycharm: https://download.jetbrains.com/python/pycharm-community-2020.3.2.dmg?_ga=2.57464554.1932778977.1610104089-1570486228.1604183464
+
+Set up a virtual environment in pycharm
+
+Go into onenote and follow along. Discord live
+
+
+
+Exercises:
+
+(do all the onenote stuff first)
+
+1) Make hello world
+
+2) make program that returns your name and a greeting when entered.
+
+1) make program that asks user for two numbers and outputs the higher of the two
+
+boolean logic?
+conditions.

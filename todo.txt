@@ -1,4 +1,5 @@
-(1) Install Python38, Zoom, GitHub Desktop.
+(1) Install Python38, Zoom/Discord, GitHub Desktop?
+1a) Install pycharm
 (2) Make accounts and share details of GitHub and Zoom.
 (3) Introduce to git system, and share the learn repo.
 (4) Hello World, Variables, how to use IDLE, pushing, pulling, basic logic, -+*/
